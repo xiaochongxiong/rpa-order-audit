@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+# D4 幂等指纹含处理记录，演练产物不入库（代码可重新生成）
+data/alert_state.json
+data/告警消息.txt
+# 个人求职材料，本地留存、不公开
+docs/面试讲稿.md
